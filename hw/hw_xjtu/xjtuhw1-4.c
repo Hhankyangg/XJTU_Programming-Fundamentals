@@ -26,7 +26,7 @@ int main() {
     int id[3];
     float score[3][3];
     float temp;
-	int clas[3]
+	int clas[3];
 
     for (i = 0; i < 3; i++) {
         scanf("%d,%d,%f,%f,%f", &clas[i],&id[i],&score[i][0],&score[i][1],&score[i][2]);
